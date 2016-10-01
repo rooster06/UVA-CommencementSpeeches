@@ -7,7 +7,7 @@
 # UVA's website. Additionally the script "babbles" a few paragraphs based on the
 # ngrams created, and a graph of readability of these speeches over the years. 
 
-# influenced by class: text as data at UVA
+# inspired by work in the class: DS6559 Text as Data by Michele Claibourn at UVA
 
 # clear global environment variables
 rm(list=ls())
